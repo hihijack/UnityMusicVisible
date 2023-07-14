@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Administrator\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_MusicVisible.-1206477774.00" t="ExcludeRecursive" />
+    <e p="H:\gamedeveloper\unity3d\MusicVisible" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="INIParser.cs" t="Include" />
+        <e p="iniSave.cs" t="Include" />
+        <e p="MySpectrum.cs" t="Include" />
+        <e p="NAudioPlayer.cs" t="Include" />
+        <e p="S1_control.cs" t="Include" />
+        <e p="S2_Control.cs" t="Include" />
+        <e p="SFB" t="Include">
+          <e p="ExtensionFilter.cs" t="Include" />
+          <e p="IStandaloneFileBrowser.cs" t="Include" />
+          <e p="StandaloneFileBrowser.cs" t="Include" />
+          <e p="StandaloneFileBrowserWindows.cs" t="Include" />
+          <e p="WindowWrapper.cs" t="Include" />
+        </e>
+        <e p="Shader" t="Include">
+          <e p="MusicCircle.shader" t="Include" />
+        </e>
+        <e p="soundFX.cs" t="Include" />
+        <e p="SpectrumUtil.cs" t="Include" />
+        <e p="uiEvent.cs" t="Include" />
+        <e p="WAV.cs" t="Include" />
+        <e p="WinformsVisualization.Visualization" t="Include">
+          <e p="BasicSpectrumProvider.cs" t="Include" />
+          <e p="GradientCalculator.cs" t="Include" />
+          <e p="ISpectrumProvider.cs" t="Include" />
+          <e p="LineSpectrum.cs" t="Include" />
+          <e p="ScalingStrategy.cs" t="Include" />
+          <e p="SpectrumBase.cs" t="Include" />
+          <e p="VoicePrint3DSpectrum.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="MusicVisible.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
